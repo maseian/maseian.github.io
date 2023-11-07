@@ -1,3 +1,36 @@
 body {
-  background-color: ##ad6a51;
+    margin: 0;
+    padding: 0;
+    background-color: #FFA500; /* Orange-ish background color */
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(169, 169, 169, 0.7); /* Gray-ish semi-transparent background */
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.search-bar {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
 }
