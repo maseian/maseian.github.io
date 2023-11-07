@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     text-align: center;
     padding: 50px;
-    background-color: rgba(169, 169, 169, 0.7); /* Gray-ish semi-transparent background */
+    background-color: rgba(169, 169, 169, 0.3); /* Gray-ish semi-transparent background */
     border-radius: 10px;
 }
 
